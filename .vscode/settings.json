@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "topbar"
+    ],
+    "marquee.widgets.npm-stats.packageNames": [
+        "admindash"
     ]
 }
