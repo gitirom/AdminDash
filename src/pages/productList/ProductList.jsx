@@ -16,7 +16,7 @@ export default function ProductList() {
         { field: 'id', headerName: 'ID', width: 90 },
         { field: 'product', headerName: 'product', width: 200, renderCell: (params) => {
             return (
-            <div className='productListUser' >
+            <div className='productListItem' >
                 <img className="productListImg" src={params.row.img} alt='' />     {/*Here I just add arrow function take a params and return jsx elem.. */}
                 {params.row.name}
             </div>

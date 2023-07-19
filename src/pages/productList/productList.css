@@ -2,7 +2,7 @@
     flex: 4;
 }
 
-.productListUser {
+.productListItem {
     display: flex;
     align-items: center;
 }
